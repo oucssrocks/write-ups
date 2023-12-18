@@ -537,6 +537,7 @@ All tools for this machine I used are pre installed on Kali.  I use a Debian VM 
 ### Resources:
 
 [Hack the Box](https://app.hackthebox.com/machines/578)
+
 [Debian 12](https://wiki.debian.org/DebianReleases)
 
 [VMware](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiAvry54pmDAxXdWkEAHUE4AJUQFnoECBcQAQ&url=https%3A%2F%2Fwww.vmware.com%2Fuk.html&usg=AOvVaw01kLZ0uwdvd7C4OUYgQrAc&opi=89978449)
