@@ -223,7 +223,7 @@ $ nikto -h http://10.10.11.243                                                  
 
 One solution or reason this can happen for me anyway is I don’t have the domain in my `etc/hosts`file. 
 
-Gobuster/ffuf both can like an IP to resolve too. I have stumbled on a possible domain in my nmap scan - `ActiveMQRealm` it’s just not got `htb` on the end. 
+Gobuster/ffuf both can like an domain name to resolve too. I have stumbled on a possible domain in my nmap scan - `ActiveMQRealm` it’s just not got `htb` on the end. 
 
 I like to find the FQDN during my enumeration stage on the site and I haven’t so I will move on with what I have got so far.
 
