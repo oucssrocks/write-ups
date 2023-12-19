@@ -96,7 +96,7 @@ Rustscan has thrown up a lot of ports to dig into. I will run my nmap scan, one 
 
 3.
 
-- **p-: Scan All 65535 Ports**
+- **-p-: Scan All 65535 Ports** (not used but I always do)
 - This flag instructs Nmap to scan all 65,535 ports on the target. It's used when you want to check for open ports on a wide range.
 
 This won’t always be the case but for most cases on HTB it works.
